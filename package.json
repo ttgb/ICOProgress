@@ -1,0 +1,20 @@
+{
+  "name": "icoprogress",
+  "version": "1.0.0",
+  "description": "simple api server for ICO project progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "api",
+    "server"
+  ],
+  "author": "ttgb",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^2.2.0",
+    "express": "^4.16.2",
+    "node-localstorage": "^1.3.0"
+  }
+}
